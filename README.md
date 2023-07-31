@@ -1,2 +1,2 @@
 # hello-world
-Create and use a repository
+In the editor, write a bit about yourself.
